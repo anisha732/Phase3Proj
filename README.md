@@ -59,6 +59,12 @@ Therefore, it is preferred that patients be falsely caught for having a stroke r
 stroke. On the test data about 56% of the patients were false positives, however, further screenings would prove the patient 
 to be healthy. More importantly, the final model was able to catch about 92% of patients who had a stroke.
 
+# Next Stpes
+Further analysis could benefit from the following:
+ - Run more GridSearches on models to determine if a model with an even higher recall score exists
+ - Feature engineer from outside sources to implement risk factors
+ - Run model on more unseen data
+
 # Repo Structure 
 # Repository Structure
 ```
