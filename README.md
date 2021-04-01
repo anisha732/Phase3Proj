@@ -5,8 +5,9 @@
 # Overview
 This project examines data, obtained from Kaggle, regarding risk factors for strokes. 
 According to the CDC, strokes are the fifth leading cause of death in the United States. 
-The goal of this project is to create a model that screens if a patient is at risk for a stroke. 
-Therefore, the models will be evaluated using recall scores in order to minimize false negatives.
+The goal of this project is to create a model for preliminary screening that can predict if a person is going to have a stroke.
+This model would allow patients to take measures in order to prevent having a stroke.
+The models will be evaluated using recall scores in order to minimize false negatives.
 
 # Methods
 The methodology for this project includes data cleaning, exploratory data analysis, feature engineering, 
